@@ -35,3 +35,14 @@ This project aims to develop a predictive model that can identify early signals 
 - Matplotlib & Seaborn
 - Scikit-learn
 - TensorFlow / LSTM
+
+## Project Workflow
+
+1. Data Collection
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Model Building
+6. Model Evaluation
+7. Risk Score Generation
+8. Visualization & Insights
