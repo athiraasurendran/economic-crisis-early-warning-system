@@ -47,7 +47,7 @@ This project aims to develop a predictive model that can identify early signals 
 7. Risk Score Generation
 8. Visualization & Insights
 
-##  Expected Output
+## Expected Output
 
 - Economic Crisis Risk Score (0–100%)
 - Classification:
