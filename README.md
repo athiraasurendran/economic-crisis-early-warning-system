@@ -11,3 +11,11 @@ This system analyzes key macroeconomic indicators such as GDP growth, inflation 
 - Crisis
 
 This project combines economics knowledge with data science techniques to provide real-world insights for policymakers, investors, and businesses.
+
+## Problem Statement
+
+Economic crises can have severe impacts on employment, businesses, and financial stability. Early detection of economic downturns is crucial for taking preventive measures.
+
+However, traditional analysis methods are often reactive rather than predictive.
+
+This project aims to develop a predictive model that can identify early signals of an economic crisis using historical macroeconomic data.
