@@ -27,3 +27,11 @@ This project aims to develop a predictive model that can identify early signals 
 - Unemployment Rate
 - Interest Rates (Repo Rate)
 - Stock Market Index (NIFTY/SENSEX)
+
+## Tech Stack
+
+- Python
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Scikit-learn
+- TensorFlow / LSTM
