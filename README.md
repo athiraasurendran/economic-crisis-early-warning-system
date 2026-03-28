@@ -19,3 +19,11 @@ Economic crises can have severe impacts on employment, businesses, and financial
 However, traditional analysis methods are often reactive rather than predictive.
 
 This project aims to develop a predictive model that can identify early signals of an economic crisis using historical macroeconomic data.
+
+## Features
+
+- GDP Growth Rate
+- Inflation Rate (CPI)
+- Unemployment Rate
+- Interest Rates (Repo Rate)
+- Stock Market Index (NIFTY/SENSEX)
