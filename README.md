@@ -46,3 +46,12 @@ This project aims to develop a predictive model that can identify early signals 
 6. Model Evaluation
 7. Risk Score Generation
 8. Visualization & Insights
+
+##  Expected Output
+
+- Economic Crisis Risk Score (0–100%)
+- Classification:
+  - Safe
+  - Warning
+  - Crisis
+- Visual insights on economic trends
